@@ -1,22 +1,5 @@
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        SEONG MINGYU  ·  성민규  ·  Frontend Developer        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Gmail](https://img.shields.io/badge/minngyuseong@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:minngyuseong@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com/minngyuseong-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minngyuseong)
-[![TOEIC](https://img.shields.io/badge/TOEIC_915-005BAC?style=flat-square)](https://github.com/minngyuseong)
-[![OPIc](https://img.shields.io/badge/OPIc_IH-00A86B?style=flat-square)](https://github.com/minngyuseong)
-
-</div>
-
----
-
+  
 ## 👋 About Me
 
 > **"기획부터 배포까지, 사용자 경험을 직접 설계하는 프론트엔드 개발자"**
